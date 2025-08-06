@@ -1,4 +1,4 @@
-Student_Management_System
+**Student_Management_System**
 
 ✤Project Description: This project demonstrates the creation and management of a Student Management System using MySQL.
 
